@@ -1,0 +1,10 @@
+# Sublime settings and configuration
+*.sublime-project
+*.sublime-workspace
+sftp-config.json
+
+# Databases
+*.db
+
+# Python
+__pycache__/

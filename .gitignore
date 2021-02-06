@@ -8,3 +8,9 @@ sftp-config.json
 
 # Python
 __pycache__/
+
+# Design notes
+design/
+
+# Future features
+src/pid/

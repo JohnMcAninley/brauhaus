@@ -2,7 +2,7 @@ import os
 import json
 
 
-SETTINGS_DIR = "../.."
+SETTINGS_DIR = "/home/pi/brauhaus/settings/"
 FILE_EXTENSION = ".json"
 
 
